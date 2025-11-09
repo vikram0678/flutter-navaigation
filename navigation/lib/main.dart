@@ -44,7 +44,7 @@ class secondScreen extends StatelessWidget{
             Text('This is teh secondd screen....'),
             SizedBox(height: 20),
             ElevatedButton(
-              child: Text('Got to first Screen'),
+              child: Text('Go to first Screen'),
               onPressed: (){
                 Navigator.pop(context);
               }
