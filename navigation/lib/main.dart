@@ -41,7 +41,7 @@ class secondScreen extends StatelessWidget{
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Text('This is teh secondd screen....'),
+            Text('This is the secondd screen....'),
             SizedBox(height: 20),
             ElevatedButton(
               child: Text('Go to first Screen'),
